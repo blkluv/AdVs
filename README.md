@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/92615235/213909739-ac45fa89-9cae-4cd7-
 2) Go to the project directory
 
 ```bash
-  cd my-project
+  cd adverie-face
 ```
 
 3) Install dependencies
