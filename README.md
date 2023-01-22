@@ -32,7 +32,7 @@
 
 
 ## Architecture
-![alt text](https://github.com/[ajaysinghpanwar2002]/[adverie]/blob/[main]/[assets]adveriearchitecture.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ajaysinghpanwar2002/Adverie/main/assets/adveriearchitecture.png)
 
 ## Presentation
 
