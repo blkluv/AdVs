@@ -34,8 +34,9 @@
 ## Architecture
 ![alt text](https://raw.githubusercontent.com/ajaysinghpanwar2002/Adverie/main/assets/adveriearchitecture.png)
 
+
 ## Demo Video 
-![alt text](https://raw.githubusercontent.com/ajaysinghpanwar2002/Adverie/main/assets/models.mp4)
+https://user-images.githubusercontent.com/92615235/213909739-ac45fa89-9cae-4cd7-9617-edcd699c219e.mp4
 
 ## Presentation
 
