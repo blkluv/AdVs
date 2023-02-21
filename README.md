@@ -1,3 +1,5 @@
+#### I presented this Idea in the 3-day Innovation Exhibition held on the 1st - 3rd February 2023 at Nehru Centre, Worli, Mumbai. I received 8 Expression of Interest Letters in the Exhibition. [credentials](https://urlis.net/d4o6tu7s)
+
 # Adverie
 
 ## The New Way To Target Ads At Consumers.
